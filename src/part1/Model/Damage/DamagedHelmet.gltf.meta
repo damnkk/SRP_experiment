@@ -1,0 +1,32 @@
+fileFormatVersion: 2
+guid: cc2d12bde36577d4891b9d43da550f9e
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: Default_albedo
+    second: {fileID: 2800000, guid: ce8dba659a03ca345a580ec0d3433fe1, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: Default_emissive
+    second: {fileID: 2800000, guid: 756b5f9433592f14b8b651fd23098857, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: Default_metalRoughness.standard
+    second: {fileID: 2800000, guid: 2f3ada2e5fb876f4ead711e04a518be0, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: Default_normal.normal
+    second: {fileID: 2800000, guid: 26a9e399917f6be4386bfd1f808d8637, type: 3}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: aecd2106718f2444db3ca21345da2cef, type: 3}
+  reverseAxis: 0
+  renderPipeline: 0
